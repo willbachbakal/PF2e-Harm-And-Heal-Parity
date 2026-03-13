@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "harm-and-heal-parity",
+  "title": "Harm and Heal Parity",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "A minor adjustment to the harm and heal spells in Pathfinder Second Edition that establishes better parity between the two spells.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "harm-and-heal-parity",
+      "label": "Harm and Heal Parity",
+      "path": "packs/harm-and-heal-parity",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/2yLIo9_8VAwa"
 }
